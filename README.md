@@ -1,4 +1,5 @@
 🚀 ThinkDesk AI
+
 ThinkDesk AI is an autonomous productivity assistant designed to reduce cognitive overload for professionals by automating repetitive tasks like email triage, intent detection, smart replies, meeting suggestions, and productivity insights.
 
 This project is built as a hackathon-ready prototype with a modern frontend stack and is scalable for real-world use.
