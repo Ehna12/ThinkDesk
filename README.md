@@ -1,36 +1,100 @@
-🚀 ThinkDesk AI
+🧠 ThinkDesk AI
 
-ThinkDesk AI is an autonomous productivity assistant designed to reduce cognitive overload for professionals by automating repetitive tasks like email triage, intent detection, smart replies, meeting suggestions, and productivity insights.
+An Autonomous Productivity Agent for the Modern Professional
 
-This project is built as a hackathon-ready prototype with a modern frontend stack and is scalable for real-world use.
+The industry doesn’t have a productivity problem.
+It has a coordination and cognitive overload crisis.
 
-✨ Key Features (Prototype Scope)
-📩 Email Intent Detection
+ThinkDesk AI is a smart, autonomous productivity assistant designed to reduce mental overhead, not just automate tasks.
+Instead of juggling emails, calendars, tasks, and follow-ups manually, ThinkDesk AI understands intent and acts on your behalf.
 
-Identifies whether an email needs a reply, meeting, or task creation
-✍️ Smart Reply Drafting
+🚀 What ThinkDesk AI Does
 
-AI-generated contextual responses (human-in-the-loop)
-📅 Meeting Suggestions
+ThinkDesk AI works as an intelligent layer on top of your daily workflow.
 
-Proposes smart time slots based on availability logic
-📊 Weekly Productivity Reports
+Core Capabilities
 
-Summarizes tasks, emails handled, and time saved
-🎨 Modern UI
+📧 Email Intelligence
 
-Built using shadcn/ui + Radix primitives for accessibility and speed
-🛠️ Tech Stack
+Reads incoming emails
+
+Detects intent: reply / meeting / task / follow-up
+
+Drafts context-aware responses
+
+🗓 Smart Scheduling
+
+Suggests optimal meeting slots
+
+Resolves calendar conflicts
+
+Reduces back-and-forth coordination
+
+✅ Task Automation
+
+Converts conversations into actionable tasks
+
+Tracks follow-ups automatically
+
+Prioritizes based on urgency and context
+
+📊 Productivity Insights
+
+Generates weekly productivity summaries
+
+Highlights time drains and focus gaps
+
+Suggests workflow improvements
+
+🧩 Why ThinkDesk AI?
+
+Modern professionals lose 30–45% of working hours on:
+
+Deciding what to do next
+
+Switching between tools (email → calendar → docs → Slack)
+
+Rewriting similar messages
+
+Remembering follow-ups
+
+Scheduling across multiple people
+
+None of this creates real value.
+
+ThinkDesk AI focuses on thinking for you, not just reminding you.
+
+🛠 Tech Stack
 Frontend
-⚛️ React 18
-⚡ Vite
-🟦 TypeScript
-🎨 Tailwind CSS
-🧩 shadcn/ui (Radix UI)
-🧭 React Router DOM
-🔄 TanStack React Query
-📈 Recharts
-Tooling
-ESLint
-PostCSS
-Autoprefixer
+
+React (Vite)
+
+TypeScript
+
+shadcn/ui
+
+Tailwind CSS
+
+Backend
+
+FastAPI / Node.js (prototype)
+
+REST APIs
+
+AI Layer
+
+LLM-based intent detection
+
+Prompt-driven task reasoning
+
+Rule + AI hybrid decision flow
+
+🧪 Project Status
+
+⚠️ Prototype / Hackathon Build
+
+This is a functional proof-of-concept
+
+Not production-ready
+
+Focused on demonstrating core intelligence, not scale
